@@ -1,5 +1,6 @@
 {
   "name": "test_task",
+  "homepage": "https://github.com/zaharoid/test_task/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

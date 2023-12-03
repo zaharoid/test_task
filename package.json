@@ -1,7 +1,7 @@
 {
   "name": "test_task",
-  "homepage": "https://zaharoid.github.io/test_task",
   "private": true,
+  "homepage": "https://zaharoid.github.io/test_task/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

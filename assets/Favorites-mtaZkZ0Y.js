@@ -1,0 +1,1 @@
+import{u as a,j as r}from"./index-9AYO4Pxy.js";import{f as e,C as o,b as i}from"./Card-QKq9uJej.js";const u=()=>{const t=a(e);return r.jsx(r.Fragment,{children:r.jsx(o,{children:t.map(s=>r.jsx(i,{car:s,fav:!0},s.id))})})};export{u as default};
